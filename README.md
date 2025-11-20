@@ -38,10 +38,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvajain04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=poorvajain04&theme=vue-dark&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 GitHub Achievements
