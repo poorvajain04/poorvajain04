@@ -3,7 +3,7 @@
 <!--
 **poorvajain04/poorvajain04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-💫 About Me:
+##💫 About Me:
 <br>
 👨‍💻 Aspiring SDE | Java • DSA • Web Dev • AI/ML
 <br>
@@ -13,7 +13,7 @@
 <br>
 📚 Currently exploring: AI/ML + Data Engineering
 <br>
-Tech Stack
+##Tech Stack
 <br>
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,c,mysql)](https://skillicons.dev)
 ![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -23,11 +23,15 @@ Tech Stack
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <br>
-GitHub Stats
+##GitHub Stats
 <br>
-![<poorvajain04>'s Stats](https://github-readme-stats.vercel.app/api?username=<poorvajain04>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![poorvajain04's Stats](https://github-readme-stats.vercel.app/api?username=poorvajain04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poorvajain04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=poorvajain04&theme=vue-dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=poorvajain04&theme=discord&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
-📬 Get in Touch
+##📬 Get in Touch
 <br>
 Connect with me on [LinkedIn](www.linkedin.com/in/poorvajain04)
 Connect with me on [Gmail](poorvajain55@gmail.com)
