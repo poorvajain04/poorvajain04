@@ -15,7 +15,7 @@
 <br>
 Tech Stack
 <br>
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,c,pandas,matplotlib,numpy,seaborn,mysql,scikit-learn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,c,Pandas,Matplotlib,Numpy,Seaborn,mysql,Scikit-learn)](https://skillicons.dev)
 <br>
 GitHub Stats
 <br>
