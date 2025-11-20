@@ -15,7 +15,13 @@
 <br>
 Tech Stack
 <br>
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,c,Pandas,Matplotlib,Numpy,Seaborn,mysql,Scikit-learn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,c,mysql)](https://skillicons.dev)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 <br>
 GitHub Stats
 <br>
