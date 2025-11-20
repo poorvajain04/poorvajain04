@@ -7,14 +7,15 @@
 ---
 
 ## 💫 About Me  
-🔹 Passionate about building scalable and high-performance applications  
-🔹 Currently learning and implementing AI/ML & Data Engineering  
-🔹 Focused on writing clean, efficient & maintainable code  
-🔹 Consistently upskilling through hands-on projects & internships  
-
-📌 *Open to Software Developer | Backend | Full-stack | ML roles*
-
----
+<br>
+👨‍💻 Aspiring SDE | Java • DSA • Web Dev • AI/ML
+<br>
+🔧 Building real-world projects & learning scalable system design
+<br>
+🚀 Focused on writing clean, efficient, and reliable code
+<br>
+📚 Currently exploring: AI/ML + Data Engineering
+<br>
 
 ## 🛠 Tech Stack
 
@@ -45,7 +46,7 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poorvajain04&theme=discord&margin-w=10&margin-h=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=poorvajain04" />
 </p>
 
 
