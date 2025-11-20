@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Programming & Development
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,c,mysql,js,git,github,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,c,mysql,git,github)](https://skillicons.dev)
 
 ### 📊 Data Science & Machine Learning
 ![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
