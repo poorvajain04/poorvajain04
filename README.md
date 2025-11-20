@@ -42,6 +42,7 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
+<!--  <img src="https://github-trophies.vercel.app/?username=poorvajain04&theme=discord&row=1&column=7" />-->
   <img src="https://github-trophies.vercel.app/?username=poorvajain04&theme=discord&row=1&column=7" />
 </p>
 
