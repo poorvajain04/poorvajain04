@@ -56,19 +56,7 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poorvajain04&theme=discord&no-frame=true&row=1"/>
-</p>
-
----
-
-## 🔥 GitHub Streak  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorvajain04&theme=vue-dark&hide_border=true"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvajain04&theme=react-dark"/>
 
 ---
 
