@@ -75,13 +75,6 @@
 </p>
 
 ---
-## 📈 LeetCode Contribution Graph
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/_poorvajain__?theme=dark&ext=heatmap"/>
-</p>
----
-
 <p align="center">
   ⭐ If you like my work, consider leaving a star on my repositories — it motivates me to build more!
 </p>
