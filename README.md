@@ -55,6 +55,24 @@
 </p>
 
 ---
+## 🧠 Data Structures & Algorithms (LeetCode)
+
+<p align="center">
+  <a href="https://leetcode.com/u/_poorvajain__/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-_poorvajain__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  🔹 Regularly solving problems in <b>Java</b><br/>
+  🔹 Strong focus on <b>DSA & Interview Preparation</b><br/>
+  🔹 Topics: Arrays • Strings • Linked List • Stack • Queue • Recursion • Binary Search
+</p>
+
+---
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/_poorvajain__?theme=dark&font=Karma"/>
+</p>
 
 ---
 
