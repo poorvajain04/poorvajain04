@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Poorva Jain</h1>
 
-<p align="center">
+<h3 align="center">
   🚀 <b>Aspiring Software Development Engineer</b><br/>
   Java • DSA • Web Development • AI/ML
-</p>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/poorvajain04" target="_blank">
@@ -55,8 +55,6 @@
 </p>
 
 ---
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvajain04&theme=react-dark"/>
 
 ---
 
