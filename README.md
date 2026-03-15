@@ -69,9 +69,11 @@
 ## 🧠 DSA Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/_poorvajain__/" target="_blank">
+   <a href="https://leetcode.com/u/_poorvajain__/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-_poorvajain__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.codechef.com/users/poorvajain04" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-poorvajain04-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
