@@ -5,10 +5,6 @@
   Java • DSA • Web Development • AI/ML
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poorvajain04&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -19,9 +15,6 @@
   </a>
   <a href="mailto:poorvajain55@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/poorvajain04" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-poorvajain04-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
@@ -97,7 +90,9 @@
 ## 🧠 CodeChef Progress
 
 <p align="center">
-  <img src="https://www.codechef.com/users/poorvajain04.png"/>
+  <a href="https://www.codechef.com/users/poorvajain04" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-1200+-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 ---
