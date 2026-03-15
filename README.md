@@ -20,11 +20,8 @@
   <a href="mailto:poorvajain55@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.codeforces.com/profile/poorvajain04" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-poorvajain04-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/poorvajain04/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-poorvajain04-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <a href="https://www.codechef.com/users/poorvajain04" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-poorvajain04-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
@@ -62,14 +59,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=poorvajain04&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 Contribution Graph  
 
 <p align="center">
@@ -87,9 +76,6 @@
   <a href="https://www.codechef.com/users/poorvajain04" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-poorvajain04-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://www.codeforces.com/profile/poorvajain04" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-poorvajain04-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
@@ -104,6 +90,14 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/_poorvajain__?theme=dark&font=Karma"/>
+</p>
+
+---
+
+## 🧠 CodeChef Progress
+
+<p align="center">
+  <img src="https://www.codechef.com/users/poorvajain04.png"/>
 </p>
 
 ---
