@@ -6,11 +6,25 @@
 </h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=poorvajain04&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/poorvajain04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:poorvajain55@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.codeforces.com/profile/poorvajain04" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-poorvajain04-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/poorvajain04/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-poorvajain04-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
@@ -39,6 +53,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poorvajain04&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvajain04&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=poorvajain04&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🔥 Contribution Graph  
 
 <p align="center">
@@ -46,26 +77,45 @@
 </p>
 
 ---
-## 🧠 Data Structures & Algorithms (LeetCode)
+
+## 🧠 DSA Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/_poorvajain__/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-_poorvajain__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://www.codechef.com/users/poorvajain04" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-poorvajain04-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.codeforces.com/profile/poorvajain04" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-poorvajain04-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  🔹 Regularly solving problems in <b>Java</b><br/>
-  🔹 Strong focus on <b>DSA & Interview Preparation</b><br/>
-  🔹 Topics: Arrays • Strings • Linked List • Stack • Queue • Recursion • Binary Search
+🔹 Regularly solving problems in <b>Java</b><br/>
+🔹 Strong focus on <b>DSA & Interview Preparation</b><br/>
+🔹 Topics: Arrays • Strings • Linked List • Stack • Queue • Recursion • Binary Search
 </p>
 
 ---
+
+## 🧠 LeetCode Progress
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/_poorvajain__?theme=dark&font=Karma"/>
 </p>
 
 ---
+
+## ⭐ Quote I Believe In
+
 <p align="center">
-  ⭐ If you like my work, consider leaving a star on my repositories — it motivates me to build more!
+  <i>"Consistency beats talent when talent doesn’t work hard."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider leaving a star on my repositories — it motivates me to build more!
 </p>
