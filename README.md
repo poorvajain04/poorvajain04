@@ -88,10 +88,15 @@
 
 <p align="center">
   <a href="https://www.codechef.com/users/poorvajain04" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-1200+-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-2★%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
+<p align="center">
+🏆 <b>2★ CodeChef Coder</b><br/>
+🔹 Regular participant in competitive programming contests<br/>
+🔹 Consistently improving problem-solving and algorithmic skills
+</p>
 ---
 
 ## ⭐ Quote I Believe In
