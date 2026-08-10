@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <a href="./poorva%20final%20resume.pdf">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-4A4A4A?style=for-the-badge"/>
+  <a href="./resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-4A4A4A?style=for-the-badge" alt="View Resume"/>
   </a>
 </p>
 
