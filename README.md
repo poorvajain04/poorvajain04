@@ -147,9 +147,7 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 ## 🧠Data Structures and Algorithm
 
 <p align="center">
-  <a href="https://leetcode.com/u/_poorvajain__/">
-    <img src="https://leetcard.jacoblin.cool/_poorvajain__?theme=dark&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/_poorvajain__?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
