@@ -22,6 +22,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="./Poorva_Jain_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-4A4A4A?style=for-the-badge"/>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -30,48 +36,70 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 
 - 🎓 B.Tech in Computer Science | **CGPA: 9.33**
 - 💼 Software Development Intern at **Bharat Electronics Limited (BEL)**
-- 💻 Strong interest in **Java, Python, DSA & Software Engineering**
-- 🤖 Experience with **NLP, RAG, LLMs, BERT and Machine Learning**
+- 💻 Interested in **Java, Python, DSA & Software Engineering**
+- 🤖 Experience with **NLP, RAG, LLMs, BERT and LDA**
 - 🚀 Building practical projects involving **AI, semantic search and voice-based applications**
 - 🏆 Branch & College Topper
 - 📈 **300+ LeetCode** problems | **175+ CodeChef** problems
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql" />
-</p>
+### 💻 Languages
 
-### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Machine Learning • Deep Learning • NLP • BERT • LDA • RAG • LLMs • Generative AI**
+### 🤖 AI / Machine Learning
 
-### Libraries & Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Scikit-Learn • TensorFlow • LangChain • OpenCV • Pandas • NumPy • FAISS**
+### 🧠 GenAI / NLP
 
-### Developer Tools
+![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge)
+![LDA](https://img.shields.io/badge/LDA-00897B?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
-**Git • GitHub • VS Code • IntelliJ IDEA • Jupyter • Google Colab • Groq API • OpenAI API**
+### 📊 Data & Vector Search
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0468D7?style=for-the-badge)
+
+### 🚀 Deployment & Developer Tools
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
 
 ## 💼 Experience
 
-### Bharat Electronics Limited (BEL)
+### 🏢 Bharat Electronics Limited (BEL)
+
 **Software Development Intern** | Jun 2026 – Jul 2026
 
 - Worked with **NLP techniques** including Sentiment Analysis, BERT, LDA and Retrieval-Augmented Generation.
 - Developed **LLM applications** using Groq API and OpenAI API.
 - Built RAG workflows for **document retrieval, semantic search and response generation**.
 
-### PyNet Labs
+### 🏢 PyNet Labs
+
 **Internship Trainee** | Jul 2025 – Aug 2025
 
 - Worked on Machine Learning workflows involving **EDA, preprocessing and time-series analysis**.
@@ -82,6 +110,7 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 ## 🚀 Featured Projects
 
 ### 📰 Intelligent News Analytics System
+
 **RAG • Topic Modeling • Knowledge Graphs**
 
 - Developed an NLP-based news intelligence system for **document analysis and question answering**.
@@ -89,6 +118,7 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 - Integrated **Groq-powered LLM response generation**.
 
 ### 🎙️ Multilingual Voice AI Tutor
+
 **Faster-Whisper • LLMs • Groq • gTTS**
 
 - Developed a multilingual voice-based AI tutor integrating **speech recognition, LLM response generation and text-to-speech**.
@@ -96,6 +126,7 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 - Added automatic language detection and multilingual voice responses using **gTTS**.
 
 ### 🕵️ DeepFake Image Classification using SVM
+
 **Python • Scikit-Learn • Google Colab**
 
 - Performed data cleaning, preprocessing and feature extraction on a Kaggle dataset.
@@ -122,26 +153,23 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 </p>
 
 <p align="center">
-  <a href="https://www.codechef.com/users/poorvajain04">
-    <img src="https://img.shields.io/badge/CodeChef-175%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Rating-1400%2B-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/2%20Star-⭐-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rating-1550%2B-blue?style=for-the-badge"/>
 </p>
 
-### Problem Solving
-
-- **LeetCode:** 300+ problems | Rating **1550+**
-- **CodeChef:** 175+ problems | Rating **1400+** | **2★**
-- Primarily practicing **DSA and problem-solving in Java**
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-175%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rating-1400%2B-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/2★-Coder-orange?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 **Branch Topper & College Topper** based on academic performance
-- 💻 Solved **300+ problems on LeetCode**
-- ⭐ Solved **175+ problems on CodeChef**
+- 💻 Solved **300+ problems on LeetCode** | Rating **1550+**
+- ⭐ Solved **175+ problems on CodeChef** | Rating **1400+** | **2★**
 - 🏅 Qualified **Stage 1 of NTSE 2020–21**
 - 🎓 Awarded **100% Academic Scholarship** in Classes XI and XII
 
@@ -152,7 +180,7 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 - Advanced **Data Structures & Algorithms**
 - **Software Engineering & Scalable Systems**
 - **Generative AI & LLM Applications**
-- **RAG and Semantic Search**
+- **RAG & Semantic Search**
 - **Data Engineering**
 
 ---
@@ -166,5 +194,5 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 ---
 
 <p align="center">
-  Thanks for visiting my profile!
+  Thanks for visiting my profile! 🚀
 </p>
