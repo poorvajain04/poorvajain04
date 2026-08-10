@@ -144,19 +144,18 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠Data Structures and Algorithm
 
 <p align="center">
   <a href="https://leetcode.com/u/_poorvajain__/">
-    <img src="https://leetcard.jacoblin.cool/_poorvajain__?theme=dark&font=Baloo%202&ext=heatmap"/>
+    <img src="https://leetcard.jacoblin.cool/_poorvajain__?theme=dark&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Rating-1550%2B-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Problems" />
+  <img src="https://img.shields.io/badge/Rating-1550%2B-blue?style=for-the-badge" alt="LeetCode Rating" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef-175%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rating-1400%2B-blue?style=for-the-badge"/>
