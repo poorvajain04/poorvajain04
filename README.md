@@ -148,8 +148,8 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 
 <p align="center">
   <img
-    src="https://github-readme-leetcode-stats.vercel.app/api/card?username=_poorvajain__&theme=dark"
-    alt="LeetCode Stats"
+    src="https://leetcard.jacoblin.cool/_poorvajain__?theme=dark&ext=heatmap"
+    alt="Poorva Jain LeetCode Stats"
   />
 </p>
 
