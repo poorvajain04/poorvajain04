@@ -140,8 +140,8 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 
 <p align="center">
   <img
-    src="https://github-contribution-graph.ez4o.com/?username=poorvajain04&last_n_days=30"
-    alt="Poorva Jain GitHub Activity"
+    src="https://yourinsights.vercel.app/api/monthly-trend?username=poorvajain04"
+    alt="Poorva Jain Monthly GitHub Contributions"
     width="900"
   />
 </p>
