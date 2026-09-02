@@ -139,9 +139,12 @@ I'm a Computer Science undergraduate at **Ajay Kumar Garg Engineering College** 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvajain04&theme=github-compact&hide_border=true"/>
+  <img
+    src="https://github-contribution-graph.ez4o.com/?username=poorvajain04&last_n_days=30"
+    alt="Poorva Jain GitHub Activity"
+    width="900"
+  />
 </p>
-
 ---
 
 ## 🧠Data Structures and Algorithm
